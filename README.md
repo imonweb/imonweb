@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/imonweb/imonweb/master/wave.gif" width="30px">
+### Hi there <img src="https://github.com/imonweb/imonweb/blob/main/wave.gif" width="30px">
 
 <!--
 **imonweb/imonweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
