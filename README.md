@@ -1,10 +1,13 @@
 ![Design and Development](https://github.com/imonweb/imonweb/blob/main/imon.jpg)
-<h1> <img src="https://github.com/imonweb/imonweb/blob/main/wave.gif" width="30px"> Hey! Nice to see you.</h1> I'm a Freelance Front-End Web Developer based in United Kingdom. Find out more about me & feel free to connect with me here:
+<h1> <img src="https://github.com/imonweb/imonweb/blob/main/wave.gif" width="30px"> Hey! Nice to see you.</h1> I'm a Freelance Front-End Web Developer based in United Kingdom. 
+
+<!-- Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-imonweb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imondelarosa/)](https://www.linkedin.com/in/imondelarosa/)
 [![Instagram Badge](https://img.shields.io/badge/-imonweb-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/imondelarosa/)](https://instagram.com/imondelarosa)
 [![Youtube Badge](https://img.shields.io/badge/-imonweb-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/imonweb)](https://www.youtube.com/c/imonweb)
 [![Gmail Badge](https://img.shields.io/badge/-contact@imonweb.co.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@imonweb.co.uk)](mailto:contact@imonweb.co.uk)
+-->
 
 ## ⚡ Technologies
 
