@@ -1,5 +1,6 @@
 ![Design and Development](https://github.com/imonweb/imonweb/blob/main/imon.jpg)
-<h1> <img src="https://github.com/imonweb/imonweb/blob/main/wave.gif" width="30px"> Hey! Nice to see you.</h1> I'm a Freelance Front-End Web Developer based in United Kingdom. 
+ 
+</h1> I'm a Freelance Front-End Web Developer based in United Kingdom. 
 
 <!-- Find out more about me & feel free to connect with me here:
 
